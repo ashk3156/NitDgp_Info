@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NitDgp_Info</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="nitinfo">The National Institute of Technology, Durgapur (formerly Regional Engineering College, Durgapur),
+        was established by an Act of Parliament in 1960 as one of the eight such colleges aimed to function as a pace setter
+        for engineering education in the country and to foster national integration.It is a fully-funded premier Technological
+        Institution of the Government of India and is administered by an autonomous Board of Governors.</string>
+</resources>
